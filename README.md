@@ -1,14 +1,7 @@
-# PRCL-0019 – Sales Effectiveness (Lead Category Prediction)
+#  Sales Effectiveness (Lead Category Prediction)
 
 ## 1. Project Overview
 
-**Client:** FicZon Inc  
-**Category:** Product Sales / Sales Effectiveness  
-**Project Ref:** PRCL-0019 – Sales Effectiveness
-
-FicZon Inc is an IT solutions provider whose major lead generation channel is digital (website, chat, campaigns).  
-Sales performance depends heavily on the **quality of incoming leads**, which is currently categorized manually by sales staff.  
-As competition increases and sales dip, FicZon wants to use **Machine Learning** to pre‑categorize lead quality and improve sales effectiveness [file:1].
 
 **Goal:**
 
